@@ -152,5 +152,5 @@
 {"cell_type":"markdown","id":"f6ed62","input":"The goal of this notebook is to provide students with knowledge of the fundamentals of python. We will take a more interactive approach than most class room settings and ask the students to do some research on their own then bring their learnings back here to share with the class. ","metadata":{"id":"bYdWzO9_WETC"},"pos":1,"type":"cell"}
 {"cell_type":"markdown","id":"fa269a","input":"Additionally, functions can take in one or multiple values to use in their code, as we can see below.","metadata":{"id":"o7jxYRpZWETT"},"pos":64,"type":"cell"}
 {"cell_type":"markdown","id":"fe81a5","input":"Whenever the computer sees the function being used, it automatically runs the code stored inside of that function.","metadata":{"id":"TsJIer9ZWETT"},"pos":63,"type":"cell"}
-{"id":0,"time":1658175149368,"type":"user"}
-{"last_load":1658260970762,"type":"file"}
+{"id":0,"time":1658347769616,"type":"user"}
+{"last_load":1658335224782,"type":"file"}
