@@ -51,4 +51,4 @@
 {"cell_type":"markdown","id":"dd20d2","input":"## NLP Part 4 - POS Tagging\nParts of speech tagging is marking up a word in a text as corresponding to a particular part of speech, based on both its definition and its context.","pos":23,"type":"cell"}
 {"cell_type":"markdown","id":"e6e600","input":"## NLP Part 3b - Lemmatization\nLemmatization considers the context and converts the word to its meaningful base form. There is a cool tutorial and definition of lemmatization in NLTK [here](https://www.geeksforgeeks.org/python-lemmatization-with-nltk/).","pos":20,"type":"cell"}
 {"id":0,"time":1658512764712,"type":"user"}
-{"last_load":1658512764202,"type":"file"}
+{"last_load":1658854642772,"type":"file"}
