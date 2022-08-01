@@ -26,4 +26,4 @@
 {"cell_type":"markdown","id":"b15858","input":"# Your turn!\nCan you use the code in the cell above to translate custom sentences? ","pos":22,"type":"cell"}
 {"cell_type":"markdown","id":"ecff9a","input":"# The Task at Hand\n\nHave you ever wondered if computers could translate languages? Did you think google translate or duolingo worked because they memorized answers?\n\nThe type of problem that translation solves is sequence to sequence. For instance, we could convert an english input sequence to a german output sequence.\n\nIn this activity, we will create an english -> chinese translator and apply what we've been learning about LSTMs & RNNs.\n\n","pos":0,"type":"cell"}
 {"id":0,"time":1658867230953,"type":"user"}
-{"last_load":1658871011853,"type":"file"}
+{"last_load":1658944037007,"type":"file"}

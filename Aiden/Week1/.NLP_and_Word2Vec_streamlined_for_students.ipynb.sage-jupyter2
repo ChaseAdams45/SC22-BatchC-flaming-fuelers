@@ -51,4 +51,4 @@
 {"cell_type":"markdown","id":"d77e00","input":"## NLP Part 4 - POS Tagging\nParts of speech tagging is marking up a word in a text as corresponding to a particular part of speech, based on both its definition and its context.","pos":23,"type":"cell"}
 {"cell_type":"markdown","id":"fdbe90","input":"## NLP Part 1 - Tokenization of paragraphs/sentences\n\nIn this section we are going to tokenize our sentences and words. If you aren't familiar with tokenization, we recommend looking up \"what is tokenization\". \n\nYou should also spend time on the [NLTK documentation](https://www.nltk.org/). If you're not sure how to do something, or get an error, it is best to google it first and ask questions as you go!","pos":7,"type":"cell"}
 {"id":0,"time":1658868952036,"type":"user"}
-{"last_load":1658871011338,"type":"file"}
+{"last_load":1658943777995,"type":"file"}
